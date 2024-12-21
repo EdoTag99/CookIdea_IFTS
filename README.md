@@ -43,4 +43,9 @@ The repository is organized as follows:
    - Open a web browser and navigate to `http://<YOUR_PC_IP>:5000/`.
    - Replace `<YOUR_PC_IP>` with your computer's local IP address.
 
-
+##Contact
+For any questions or suggestions, feel free to reach out through the GitHub profiles: 
+   -[EdoTag99](https://github.com/EdoTag99)
+   -[Anaïs](https://github.com/An4i3s)
+   -[pazlin](https://github.com/pazlin)
+   -[simoiannelli](https://github.com/simoiannelli)
