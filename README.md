@@ -47,5 +47,5 @@ The repository is organized as follows:
 For any questions or suggestions, feel free to reach out through the GitHub profiles:
    [EdoTag99](https://github.com/EdoTag99), 
    [Anaïs](https://github.com/An4i3s), 
-   -[pazlin](https://github.com/pazlin), 
-   -[simoiannelli](https://github.com/simoiannelli)
+   [pazlin](https://github.com/pazlin), 
+   [simoiannelli](https://github.com/simoiannelli)
